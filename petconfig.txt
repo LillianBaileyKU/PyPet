@@ -1,0 +1,6 @@
+name = 
+food = 
+clean = 
+happy = 
+health = 
+dead = False
