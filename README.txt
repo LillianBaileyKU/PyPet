@@ -12,7 +12,7 @@ Python (Written in Python 3.13.7)
 
 How to Install/Play
 Download this repository
-Run the game with: python virtualpet.py
+Run the game with: python pypet.py
 Select your petconfig.txt file when prompted
 The download should contain a petconfig.txt file, but if it does not, create one with the following format:
 
